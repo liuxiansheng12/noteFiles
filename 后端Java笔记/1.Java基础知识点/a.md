@@ -42,9 +42,7 @@ public class Test1{
 
 
 
-## 3 如何让计算机执行java程序
 
-安装JDK -》 配置环境变量 -》cmd编译.java文件 -》cmd运行java程序
 
 ## 4 变量
 
